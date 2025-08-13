@@ -1,6 +1,6 @@
 # Create a Blog with Nuxt 3, Content Module, and Static Generation
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/689c614cfe7526244726b207/create-a-blog-with-nuxt-3-content-module-and-static-generation).
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
